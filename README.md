@@ -431,6 +431,12 @@ FraudFlux1/
 ├── fraud_watchlist/
 │   └── Watchlist generation resources
 │
+├── FraudFlux1_streaming_project/
+│   ├── dashboard/
+│   ├── databricks notebooks and pipelines/
+│   ├── kafka_producer/
+│   └── postgres sql/
+│
 ├── README.md
 │
 └── .gitignore
